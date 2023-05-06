@@ -4,7 +4,7 @@
   reason: 'unsupported',
   code: 'ERR_OSSL_EVP_UNSUPPORTED'
 
-Try using $env:NODE_OPTIONS = "--openssl-legacy-provider" command
+Try using   $env:NODE_OPTIONS = "--openssl-legacy-provider"   command
 
 # Getting Started with Create React App
 
