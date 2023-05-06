@@ -1,0 +1,30 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+REACT_APP_FIREBASE_KEY="AIzaSyA6CQwgvlFO4hJnwt6tyorqr6Xg7w-DYbU"
+REACT_APP_FIREBASE_DOMAIN="trading-app-ee262.firebaseapp.com"
+REACT_APP_FIREBASE_DATABASE="trading-app-ee262.firebaseapp.com"
+REACT_APP_FIREBASE_PROJECT_ID="trading-app-ee262"
+REACT_APP_FIREBASE_STORAGE_BUCKET="trading-app-ee262.appspot.com"
+REACT_APP_FIREBASE_SENDER_ID=202971952998

@@ -1,0 +1,36 @@
+.stockInfoHeader {
+  margin-bottom: 1rem;
+  gap: 1rem;
+  box-shadow: rgb(0 0 0 / 6%) 0px 1px 2px 0px;
+  padding: 1rem;
+  background: white;
+  border-radius: 0.5rem;
+  justify-content: space-between;
+    align-items: center;
+}
+.companyname{
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.price{
+  float: right;
+  font-size: 26px;
+  font-weight: bold;
+  gap:1rem;
+}
+.changePercent{
+  color:grey;
+  font-weight: 300;
+}
+.currency {
+  color:grey;
+  font-weight: 300;
+}
+.green{
+  color:green
+}
+
+.red{
+  color:red
+}
